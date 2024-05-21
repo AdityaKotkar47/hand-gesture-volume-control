@@ -27,7 +27,7 @@ Ensure you have Python installed on your system. You can download it from Python
 
    - On Windows:
      ```bash
-     venv\Scripts\activate
+     venv\Scripts\activate.bat
      ```
 
    - On macOS and Linux:
