@@ -1,0 +1,4 @@
+aistuff/
+
+__pycache__/
+*.pyc
